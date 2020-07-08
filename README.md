@@ -28,7 +28,7 @@ usage: pastecat.py [-h]
                    [--version]
                    [filename]
 
-Paste clipboard image to file onWindows/macOS.
+Paste clipboard image to file on Windows/macOS.
 
 positional arguments:
   filename              Output filename. If the filename is `-`, image is written to stdout.
